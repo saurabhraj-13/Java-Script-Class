@@ -3,8 +3,8 @@
 // functional -> accesible only to that function
 // Block level scope-> accesible only to that Block
 
-// let a= 10;node scope.js
-// greet();
+let a= 10;node scope.js
+greet();
 
 
 function greeting(){
